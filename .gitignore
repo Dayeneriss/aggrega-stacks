@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.deps/
+
+# Build
+dist/
+build/
+*.js.map
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Clarity specific
+.cache/
+settings/Mainnet.toml
+settings/Testnet.toml
+
+# OS
+.DS_Store
+Thumbs.db
