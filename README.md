@@ -46,6 +46,20 @@ The project includes comprehensive test suites:
 - Emergency shutdown mechanism is available
 - Comprehensive error handling for all operations
 
+  ## Structure
+
+contracts/
+├── .gitignore        # Fichiers à ignorer par Git
+├── README.md         # Documentation du projet
+├── src/             
+│   ├── clarity/      # Contrats Clarity
+│   └── interfaces/   # Interfaces TypeScript
+└── tests/
+    ├── unit/         # Tests unitaires
+    ├── integration/  # Tests d'intégration
+    ├── performance/  # Tests de performance
+    └── simulation/   # Tests de simulation
+
 ## License
 
 MIT License
