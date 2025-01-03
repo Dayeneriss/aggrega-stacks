@@ -30,8 +30,8 @@ SwapSmart is a native Stacks blockchain swap aggregator designed to provide the 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/swapsmart.git
-cd swapsmart
+git clone https://github.com/Dayeneriss/aggrega-stacks.git
+cd aggrega-stacks
 ```
 
 2. Install dependencies
